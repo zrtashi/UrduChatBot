@@ -10,8 +10,8 @@ This project is a Streamlit-based Urdu voice chatbot that combines natural langu
 **Interactive Interface:** User-friendly Streamlit interface with customizable UI styles.
 
 **Clone the repository**
-git clone <https://github.com/zrtashi/UrduChatBot>
-cd <repository-folder>
+git clone <https://github.com/zrtashi/UrduChatBot/tree/main>
+cd <https://github.com/zrtashi/UrduChatBot/tree/main/chat_bot>
 **Create a virtual environment**
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
