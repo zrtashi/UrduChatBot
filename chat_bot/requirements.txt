@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+langchain_google_genai
+SpeechRecognition 
+gtts 
+audio_recorder_streamlit
+transformers
+torch
+langchain-chroma
